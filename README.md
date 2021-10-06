@@ -1,2 +1,2 @@
 # C_sharp
- all my C sharp codes
+ all my C# codes
