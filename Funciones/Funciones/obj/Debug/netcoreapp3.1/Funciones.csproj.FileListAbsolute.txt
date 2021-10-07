@@ -1,0 +1,14 @@
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.AssemblyReference.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfoInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfo.cs
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.exe
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.deps.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.dev.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.genruntimeconfig.cache

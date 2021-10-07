@@ -1,0 +1,14 @@
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\bin\Debug\netcoreapp3.1\Colecciones_arraylist.exe
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\bin\Debug\netcoreapp3.1\Colecciones_arraylist.deps.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\bin\Debug\netcoreapp3.1\Colecciones_arraylist.runtimeconfig.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\bin\Debug\netcoreapp3.1\Colecciones_arraylist.runtimeconfig.dev.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\bin\Debug\netcoreapp3.1\Colecciones_arraylist.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\bin\Debug\netcoreapp3.1\Colecciones_arraylist.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.csproj.AssemblyReference.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.AssemblyInfoInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.AssemblyInfo.cs
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Colecciones_arraylist\Colecciones_arraylist\obj\Debug\netcoreapp3.1\Colecciones_arraylist.genruntimeconfig.cache

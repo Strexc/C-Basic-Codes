@@ -1,0 +1,13 @@
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.exe
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.deps.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.dev.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfoInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfo.cs
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Arreglos\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.genruntimeconfig.cache

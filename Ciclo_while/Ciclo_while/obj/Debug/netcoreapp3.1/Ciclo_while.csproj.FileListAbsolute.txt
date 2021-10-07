@@ -1,0 +1,14 @@
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\bin\Debug\netcoreapp3.1\Ciclo_while.exe
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\bin\Debug\netcoreapp3.1\Ciclo_while.deps.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\bin\Debug\netcoreapp3.1\Ciclo_while.runtimeconfig.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\bin\Debug\netcoreapp3.1\Ciclo_while.runtimeconfig.dev.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\bin\Debug\netcoreapp3.1\Ciclo_while.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\bin\Debug\netcoreapp3.1\Ciclo_while.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.csproj.AssemblyReference.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.AssemblyInfoInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.AssemblyInfo.cs
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Ciclo_while\Ciclo_while\obj\Debug\netcoreapp3.1\Ciclo_while.genruntimeconfig.cache
