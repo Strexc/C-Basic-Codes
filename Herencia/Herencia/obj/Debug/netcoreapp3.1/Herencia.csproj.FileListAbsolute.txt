@@ -1,0 +1,14 @@
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.AssemblyReference.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache
