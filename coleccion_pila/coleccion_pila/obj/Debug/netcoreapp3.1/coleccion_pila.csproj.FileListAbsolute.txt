@@ -1,0 +1,14 @@
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\bin\Debug\netcoreapp3.1\coleccion_pila.exe
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\bin\Debug\netcoreapp3.1\coleccion_pila.deps.json
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\bin\Debug\netcoreapp3.1\coleccion_pila.runtimeconfig.json
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\bin\Debug\netcoreapp3.1\coleccion_pila.runtimeconfig.dev.json
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\bin\Debug\netcoreapp3.1\coleccion_pila.dll
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\bin\Debug\netcoreapp3.1\coleccion_pila.pdb
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.csproj.AssemblyReference.cache
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.AssemblyInfoInputs.cache
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.AssemblyInfo.cs
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.dll
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.pdb
+C:\Users\icras\source\repos\coleccion_pila\coleccion_pila\obj\Debug\netcoreapp3.1\coleccion_pila.genruntimeconfig.cache
