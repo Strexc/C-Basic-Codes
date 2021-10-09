@@ -1,0 +1,13 @@
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\bin\Debug\netcoreapp3.1\Poo_registro_automovil.exe
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\bin\Debug\netcoreapp3.1\Poo_registro_automovil.deps.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\bin\Debug\netcoreapp3.1\Poo_registro_automovil.runtimeconfig.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\bin\Debug\netcoreapp3.1\Poo_registro_automovil.runtimeconfig.dev.json
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\bin\Debug\netcoreapp3.1\Poo_registro_automovil.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\bin\Debug\netcoreapp3.1\Poo_registro_automovil.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.AssemblyInfoInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.AssemblyInfo.cs
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.csproj.CoreCompileInputs.cache
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.dll
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.pdb
+C:\Users\icras\source\projectos_c#\curso\C_sharp\Poo_registro_automovil\Poo_registro_automovil\obj\Debug\netcoreapp3.1\Poo_registro_automovil.genruntimeconfig.cache
